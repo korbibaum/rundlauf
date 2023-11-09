@@ -31,5 +31,11 @@
 		"vite": "^4.4.2",
 		"vitest": "^0.34.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@chakra-ui/react": "^2.8.1",
+		"@emotion/react": "^11.11.1",
+		"@emotion/styled": "^11.11.0",
+		"framer-motion": "^10.16.4"
+	}
 }
